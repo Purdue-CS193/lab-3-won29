@@ -1,4 +1,4 @@
 set number
-inoremap jk <esc>
+inoremap jkl <esc>
 set cursorline
 colorscheme darkblue 
